@@ -1,0 +1,6 @@
+1 5 1000 Grecia Atena
+4 Afrodita 5
+4 Zeus 6
+2 5 480 Grecia 2
+5 Apollo 6
+3 10 5000 Virtuosa Kiel Olden
